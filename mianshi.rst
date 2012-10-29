@@ -7,7 +7,6 @@
 .. toctree::
    :maxdepth: 2
 
-   quickstart.rst
    linklist.rst
    stack.rst
    queue.rst
